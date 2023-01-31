@@ -1,2 +1,2 @@
 # 42-ecoll
-hellp
+gerekli dosyalar
